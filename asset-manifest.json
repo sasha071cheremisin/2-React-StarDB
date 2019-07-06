@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/2-react-starDB/static/css/main.f66908d6.chunk.css",
-    "main.js": "/2-react-starDB/static/js/main.91445c01.chunk.js",
-    "main.js.map": "/2-react-starDB/static/js/main.91445c01.chunk.js.map",
-    "runtime~main.js": "/2-react-starDB/static/js/runtime~main.13368454.js",
-    "runtime~main.js.map": "/2-react-starDB/static/js/runtime~main.13368454.js.map",
-    "static/js/2.fabe26bc.chunk.js": "/2-react-starDB/static/js/2.fabe26bc.chunk.js",
-    "static/js/2.fabe26bc.chunk.js.map": "/2-react-starDB/static/js/2.fabe26bc.chunk.js.map",
-    "index.html": "/2-react-starDB/index.html",
-    "precache-manifest.835601a4181f9f95a150d817cc709908.js": "/2-react-starDB/precache-manifest.835601a4181f9f95a150d817cc709908.js",
-    "service-worker.js": "/2-react-starDB/service-worker.js",
-    "static/css/main.f66908d6.chunk.css.map": "/2-react-starDB/static/css/main.f66908d6.chunk.css.map",
-    "static/media/death-star-icon.png": "/2-react-starDB/static/media/death-star-icon.e76c8d59.png"
+    "main.css": "/2-React-StarDB/static/css/main.f66908d6.chunk.css",
+    "main.js": "/2-React-StarDB/static/js/main.c74505b1.chunk.js",
+    "main.js.map": "/2-React-StarDB/static/js/main.c74505b1.chunk.js.map",
+    "runtime~main.js": "/2-React-StarDB/static/js/runtime~main.faaa8c21.js",
+    "runtime~main.js.map": "/2-React-StarDB/static/js/runtime~main.faaa8c21.js.map",
+    "static/js/2.fabe26bc.chunk.js": "/2-React-StarDB/static/js/2.fabe26bc.chunk.js",
+    "static/js/2.fabe26bc.chunk.js.map": "/2-React-StarDB/static/js/2.fabe26bc.chunk.js.map",
+    "index.html": "/2-React-StarDB/index.html",
+    "precache-manifest.50f3abdd4447508b0d89d9209256452b.js": "/2-React-StarDB/precache-manifest.50f3abdd4447508b0d89d9209256452b.js",
+    "service-worker.js": "/2-React-StarDB/service-worker.js",
+    "static/css/main.f66908d6.chunk.css.map": "/2-React-StarDB/static/css/main.f66908d6.chunk.css.map",
+    "static/media/death-star-icon.png": "/2-React-StarDB/static/media/death-star-icon.e76c8d59.png"
   }
 }
